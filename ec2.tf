@@ -4,3 +4,4 @@ resource "aws_instance" "blerg" {
   associate_public_ip_address = true
   vpc_security_group_ids = [ "sg-04d863cace8378ff1" ]
 }
+#testing
